@@ -8,7 +8,7 @@ This repository contains the data and R scripts used to analyze the emergence, d
 ├── data/
 │   ├── matrices/                 # Main data matrices (e.g., gene properties, motifs)
 │   ├── trees/                    # Phylogenetic trees
-│   ├── gene_lists               
+│   ├── gene_lists                # List of gene codes per category
 │   └── assemblies/               # Motif coverage and genome size summaries
 ├── scripts/
 │   └── figure_generation.R       # Main R script for statistical testing and plotting             
